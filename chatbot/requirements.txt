@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 langchain
 langchain-core
 langchain-google-genai
@@ -7,3 +8,14 @@ tavily-python
 python-dotenv
 fastapi
 uvicorn
+=======
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+google-generativeai
+tavily-python
+python-dotenv
+fastapi
+uvicorn
+>>>>>>> 6330d868b913af753e8e9f45c8a07799dda0e411
